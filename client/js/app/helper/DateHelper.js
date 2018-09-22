@@ -20,10 +20,5 @@ class DateHelper{
                     return item - indice % 2;                    
                 }))
         }
-            
-
-
-        
-
     }
 }
